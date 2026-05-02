@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Madhav 👋  <br><br>I'm a Computer Science student currently learning frontend development with React.  <br>I enjoy building interactive and responsive web applications and improving my UI/UX skills.  <br><br>Right now, I'm focused on strengthening my fundamentals and gradually moving towards full-stack development.
 
 
